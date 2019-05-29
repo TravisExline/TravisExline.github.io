@@ -1,11 +1,11 @@
 # Site settings
 author: Travis Exline
-title: 
+title: The Road to Code
 header-img: img/home-bg.png
 email: t.exline22@gmail.com
 copyright_name: Travis Exline
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Learning Experience
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TravisExline
