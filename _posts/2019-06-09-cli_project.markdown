@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Project"
-date:       2019-06-09 13:22:41 +0000
+date:       2019-06-09 09:22:42 -0400
 permalink:  cli_project
 ---
 
@@ -71,9 +71,9 @@ As for the CLI itself, I created a simple, easy to use, CLI.  I wanted to keep e
     computer_array.each do |computer|;
       @@all << computer.split(" ")[0];
     end;
-  end;
-	
+  end;	
 	```
+	
 	At first, I was repeatedly getting NoMethodErrors for my .split.  
 	
 	*Spongebob Narrator Voice Here* Two hours later.
