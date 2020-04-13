@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Working with CSS Grid"
-date:       2020-04-13 15:13:08 +0000
+date:       2020-04-13 11:13:09 -0400
 permalink:  working_with_css_grid
 ---
 
@@ -28,7 +28,7 @@ There's a few very useful properties included with CSS Grid, but this is by far 
 ```
 .grid-container {
    display: grid;
-	 grid-template-columns: 1fr 1fr 1fr 1fr;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 ```
 
@@ -39,7 +39,7 @@ But how do I actually get what I want, where I want? Easy!  Check out the code b
 ```
 .grid-container-child {
   display: grid;
-	grid-column: 1 / 2;
+grid-column: 1 / 2;
 }
 ```
 
